@@ -18,6 +18,3 @@ freeze package version into file
 `pip freeze  > requirements.freeze.txt`
 
 
-run server
-
-pip instal jinja2  >#for template 
