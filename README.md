@@ -1,6 +1,7 @@
 ## Screenshot
+## Screenshot
 
-![Project Screenshot](./homepage.png)
+![Project Screenshot](./screenshot/homepage.png)
 
 # Product_api
 
